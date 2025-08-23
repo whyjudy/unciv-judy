@@ -21,7 +21,7 @@
 		"requiredBuilding": "Barracks",
 		"uniques": ["[+15]% Production when constructing [Gunpowder] units [in this city]",
 			"[+15]% Production when constructing [Ranged Gunpowder] units [in this city]",
-			["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
+			["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"]],
 		"requiredTech": "Steel"
 	}
 ]
