@@ -19,7 +19,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredBuilding": "Barracks",
-		"uniques": "[+15]% Production when constructing [Gunpowder] units [in this city]",
+		"uniques": "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]",
 		"requiredTech": "Steel"
 	}
 ]
