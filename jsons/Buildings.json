@@ -19,7 +19,8 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredBuilding": "Barracks",
-		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+		    ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"]],
 		"requiredTech": "Steel"
 	}
 ]
