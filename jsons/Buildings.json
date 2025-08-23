@@ -14,12 +14,12 @@
 		"name": "Shen Ji Ying",
 		"replaces": "Armory",
 		"uniqueTo": "china",
-		"Production": 1,
 		"cost": 160,
+		"Production": 1,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredBuilding": "Barracks",
-		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Steel"
 	}
 ]
