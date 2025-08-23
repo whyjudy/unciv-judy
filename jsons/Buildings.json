@@ -19,10 +19,9 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredBuilding": "Barracks",
-		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
-			"[+1 Production] from [Cattle] tiles [in this city]",
-			"[+1 Production] from [Horses] tiles [in this city]",
-			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"uniques": ["[+15]% Production when constructing [Gunpowder] units [in this city]",
+			"[+15]% Production when constructing [Ranged Gunpowder] units [in this city]",
+			["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Steel"
 	}
 ]
