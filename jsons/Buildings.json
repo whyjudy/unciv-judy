@@ -15,11 +15,12 @@
 		"replaces": "Armory",
 		"uniqueTo": "china",
 		"cost": 160,
-		"Production": 1,
+		"Production": 2,
 		"hurryCostModifier": 25,
-		"maintenance": 2,
+		"maintenance": 4,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
+		    "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
 		"requiredTech": "Steel"
 	}
 ]
