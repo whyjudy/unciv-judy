@@ -1,25 +1,22 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "She Ji Tan",
+		"replaces": "Shrine",
+		"uniqueTo": "china",
+		"cost": 50,
+		"happiness": 1,
+		"faith": 2,
+		"food": 1,
+		"maintenance": 1,
+		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"name": "Shen Ji Ying",
+		"replaces": "Armory",
+		"uniqueTo": "china",
+		"cost": 90,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"Production": 1,
+		"requiredTech": "Steel"
 	}
 ]
