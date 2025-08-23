@@ -7,16 +7,16 @@
 		"happiness": 1,
 		"faith": 2,
 		"food": 1,
-		"maintenance": 1,
+		"maintenance": 2,
 		"requiredTech": "Pottery"
 	},
 	{
 		"name": "Shen Ji Ying",
 		"replaces": "Armory",
 		"uniqueTo": "china",
+		"Production": 1,
 		"cost": 160,
 		"hurryCostModifier": 25,
-		"Production": 1,
 		"maintenance": 2,
 		"requiredBuilding": "Barracks",
 		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
