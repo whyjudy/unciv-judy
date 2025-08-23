@@ -12,7 +12,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Indirect Fire","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
