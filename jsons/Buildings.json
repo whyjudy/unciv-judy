@@ -19,7 +19,8 @@
 		"hurryCostModifier": 25,
 		"maintenance": 5,
 		"requiredBuilding": "Barracks",
-		"uniques": "[+15]% Production when constructing [Mounted] units [in this city]",
+		"uniques": ["[+10]% [Food] [in all cities]", "[+15]% Production when constructing [Archery] units [in this city]",
+            "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
 		"requiredTech": "Steel"
 	}
 ]
