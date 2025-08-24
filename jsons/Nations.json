@@ -1,8 +1,8 @@
 [
 	{
-		"name": "china",
+		"name": "Ming",
 		"leaderName": "judy",
-		"adjective": ["china"],
+		"adjective": ["China"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
 		
