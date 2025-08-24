@@ -2,11 +2,11 @@
 	{
 		"name": "Hu Dun Pao",
 		"unitType": "Ranged",
-		"uniqueTo": "china",
+		"uniqueTo": "Ming",
 		"replaces": "Crossbowman",
 		"movement": 2,
 		"strength": 13,
-		"rangedStrength": 23,
+		"rangedStrength": 21,
 		"range": 2,
 		"cost": 160,
 		"requiredTech": "Machinery",
