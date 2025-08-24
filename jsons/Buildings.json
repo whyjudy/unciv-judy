@@ -19,7 +19,10 @@
 		"hurryCostModifier": 25,
 		"maintenance": 5,
 		"requiredBuilding": "Barracks",
-		"uniques": "[+15]% Production when constructing [Ranged] units [in this city]",
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Steel"
 	}
 ]
