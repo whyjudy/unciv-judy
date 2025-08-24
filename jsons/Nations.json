@@ -30,7 +30,7 @@
 		"outerColor": [255,255,0],
 		"innerColor": [28,28,28],
 		"uniqueName": "Art of War",
-		"uniques": "[+1 Gold, +2 Production] per [3] population [in all cities]",
+		"uniques": "[+1 Gold] per [3] population [in all cities]",
 		"cities": ["Beijing","Q'Nanjing","Q'Suzhou","Q'Kaifeng","Q'Xian","Q'Hangzhou","Q'Yangzhou","Q'Taiyuan","Q'Chengdu",
 			"Q'Huaian","Q'","Q'Changzhou","Q'Fuzhou","Q'Jianning","Q'Nanchang","Q'Pingyang","Q'Chongqing","Q'Luzhou","Q'Guilin",
 			"Q'Wuchang","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
