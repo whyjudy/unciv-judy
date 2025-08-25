@@ -9,8 +9,10 @@
 		"uniqueName": "Art of War And Li Jia",
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"[+2 Gold, +1 Culture, +1 Science] per [1] population [in all cities] <in cities with at least [10] [Population]>"],
-		"cities": ["Beijing","Q'Nanjing","Q'Suzhou","Q'Kaifeng","Q'Xian","Q'Hangzhou","Q'Yangzhou","Q'Taiyuan","Q'Chengdu",
-			"Q'Huaian","Q'","Q'Changzhou","Q'Fuzhou","Q'Jianning","Q'Nanchang","Q'Pingyang","Q'Chongqing","Q'Luzhou","Q'Guilin",
-			"Q'Wuchang"]
+		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	}
 ]
