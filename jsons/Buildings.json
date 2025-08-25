@@ -18,8 +18,9 @@
 		"hurryCostModifier": 25,
 		"maintenance": 2,
 		"requiredBuilding": "Barracks",
-		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured", "[+15]% Production when constructing [Gunpowder] units [in this city]",
-            "[+15]% Production when constructing [Ranged Gunpowder] units [in this city]"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured",
+			"[+15]% Production when constructing [Gunpowder] land units [in this city]",
+			"[+15]% Production when constructing [Ranged Gunpowder] land units [in this city]"],
 		"requiredTech": "Steel"
 	}
 ]
