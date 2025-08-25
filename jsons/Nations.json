@@ -8,7 +8,9 @@
 		"innerColor": [28,28,28],
 		"uniqueName": "Art of War And Li Jia",
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster",
-			"[+2 Gold, +1 Culture, +1 Science] per [1] population [in all cities] <in cities with at least [10] [Population]>"],
+			"[+2 Gold, +1 Culture, +1 Science] per [1] population [in all cities] <in cities with at least [10] [Population]>"，
+			"Enables conversion of city production to [Food]",
+			"Production to [Food] conversion in cities changed by [25]%"]，
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
 			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
