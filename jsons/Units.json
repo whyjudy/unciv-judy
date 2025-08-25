@@ -2,7 +2,7 @@
 	{
 		"name": "Hu Dun Pao",
 		"unitType": "Ranged",
-		"uniqueTo": "Ming",
+		"uniqueTo": "Ming dynasty",
 		"replaces": "Crossbowman",
 		"movement": 2,
 		"strength": 13,
