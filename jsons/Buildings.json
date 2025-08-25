@@ -2,7 +2,7 @@
 	{
 		"name": "She Ji Tan",
 		"replaces": "Shrine",
-		"uniqueTo": "Ming",
+		"uniqueTo": "Ming dynasty",
 		"cost": 50,
 		"happiness": 1,
 		"faith": 2,
@@ -13,7 +13,7 @@
 	{
 		"name": "Shen Ji Ying",
 		"replaces": "Armory",
-		"uniqueTo": "Ming",
+		"uniqueTo": "Ming dynasty",
 		"cost": 185,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
