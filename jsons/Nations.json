@@ -5,7 +5,7 @@
 		"adjective": ["Ming"],
 		"startBias": ["Avoid [Tundra]"],
 		"outerColor": [255,255,0],
-		"innerColor": [28,28,28],
+		"innerColor": [255,255,0],
 		"uniqueName": "Art of War And Li Jia",
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster",
 			"[+2 Gold, +1 Culture, +1 Science] per [1] population [in all cities] <in cities with at least [10] [Population]>",
