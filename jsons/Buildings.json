@@ -4,7 +4,6 @@
 		"replaces": "Shrine",
 		"uniqueTo": "Ming dynasty",
 		"cost": 50,
-		"happiness": 1,
 		"faith": 2,
 		"culture": 1,
 		"maintenance": 2,
