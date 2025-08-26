@@ -1,17 +1,15 @@
 [
 	{
 		"name": "Hu Dun Pao",
-		"unitType": "Ranged",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Ming dynasty",
 		"replaces": "Crossbowman",
 		"movement": 2,
-		"strength": 13,
-		"rangedStrength": 24,
+		"strength": 14,
+		"rangedStrength": 25,
 		"range": 2,
-		"cost": 135,
+		"cost": 125,
 		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
 		"promotions": ["Indirect Fire","Accuracy I"],
 		"attackSound": "phasers"
 	}
